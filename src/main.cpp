@@ -1,12 +1,14 @@
 #include <iostream>
 #include <vector>
 //#include "src/mid.cpp"
-#include "src/below.cpp"
+//#include "below.cpp"
+#include "findVal.cpp"
 using namespace std;
 
 
+
 int main() {
-    findBelow();
+    findVal();
 
     return 0;
 }
