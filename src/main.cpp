@@ -1,14 +1,14 @@
 #include <iostream>
 #include <vector>
 //#include "src/mid.cpp"
-//#include "below.cpp"
-#include "findVal.cpp"
+#include "src/below.cpp"
+#include "src/weight.cpp"
+#include "src/roster.cpp"
 using namespace std;
 
 
-
 int main() {
-    findVal();
+    playerRoster();
 
     return 0;
 }
